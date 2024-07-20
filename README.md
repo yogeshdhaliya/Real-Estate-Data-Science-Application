@@ -82,39 +82,8 @@ This capstone project not only demonstrates proficiency in data science techniqu
 - Scikit-learn
 - AWS Account
 
-### Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Yogesh/real-estate-data-science-app.git
-    cd real-estate-data-science-app
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the application:
-    ```bash
-    streamlit run app.py
-    ```
-
-### Deployment
-For deployment on AWS, follow the instructions in the `deployment_guide.md` file provided in the repository.
-
-## Repository Structure
-- `data/`: Contains the raw and cleaned data.
-- `notebooks/`: Jupyter notebooks for data exploration and model development.
-- `models/`: Trained models and scripts for model training.
-- `app.py`: Main application script for Streamlit.
-- `requirements.txt`: List of required Python packages.
-- `README.md`: Project overview and instructions.
-
-## Acknowledgments
-We would like to thank the 99acres website for providing the data and the open-source community for their invaluable tools and resources.
-
 ## Contact
-For any questions or issues, please contact [Yogesh](mailto:yogesh@example.com).
+For any questions or issues, please contact [Yogesh](mailto:yogeshdhaliyaa@gmail.com).
 
 ---
 
