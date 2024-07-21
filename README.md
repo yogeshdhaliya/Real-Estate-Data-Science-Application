@@ -16,7 +16,6 @@ In this comprehensive capstone project, we leveraged data science techniques to 
 - [Building the Recommender System](#building-the-recommender-system)
 - [Deploying the Application on AWS](#deploying-the-application-on-aws)
 - [Conclusion](#conclusion)
-- [How to Use](#how-to-use)
 - [Prerequisites](#prerequisites)
 - [Contact](#contact)
 
@@ -68,8 +67,6 @@ The entire application, encompassing prediction, analytics, and recommendation f
 
 ## Conclusion
 This capstone project not only demonstrates proficiency in data science techniques such as feature engineering, exploratory analysis, and model building but also showcases the deployment of a real-world application, making valuable insights and recommendations accessible to end-users.
-
-## How to Use
 
 ### Prerequisites
 - Python 3.7+
