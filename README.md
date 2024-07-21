@@ -18,10 +18,6 @@ In this comprehensive capstone project, we leveraged data science techniques to 
 - [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Deployment](#deployment)
-- [Repository Structure](#repository-structure)
-- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
 ## Data Gathering
